@@ -1,15 +1,8 @@
-# Personal documents, resumes, and confidential files
+# Keep raw source Word documents and Office files private
 *.docx
 *.doc
-*.pdf
 *.pptx
 *.xlsx
-*resume*
-*Resume*
-assets/*.pdf
-assets/*.docx
-assets/*resume*
-assets/*Resume*
 
 # OS and system files
 .DS_Store
