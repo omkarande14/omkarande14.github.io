@@ -1,0 +1,17 @@
+# Personal documents, resumes, and confidential files
+*.docx
+*.doc
+*.pdf
+*.pptx
+*.xlsx
+*resume*
+*Resume*
+assets/*.pdf
+assets/*.docx
+assets/*resume*
+assets/*Resume*
+
+# OS and system files
+.DS_Store
+Thumbs.db
+*.log

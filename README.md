@@ -7,6 +7,8 @@ Interactive 3D Portfolio showcasing production AI systems, Generative AI pipelin
 ---
 
 ### 🚀 Featured Systems & Highlights
+- **Protected Interactive Resume Viewer**: In-page digital document viewer with zoom controls, formatted executive document layout, and non-downloadable security protection.
+- **Interactive Certifications Viewer**: Click-to-inspect credential modals for Microsoft, IBM, IoT, and entrepreneurship achievements.
 - **3D Neural Constellation & Interactive Canvas**: Real-time WebGL Three.js neural matrix with mouse repulsion, shockwave physics, and perspective tilt.
 - **Dual-Face 3D Profile Flip**: Interactive 3D flip card alternating between Professional Portrait and AI Engineer Avatar.
 - **Production Projects**:
